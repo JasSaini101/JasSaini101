@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **Unity and Mobile App Development**
 
+- 💬 Ask me about **what I've learned from my internships and school**
+
 - 📫 How to reach me **jasnoor.saini@icloud.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing](https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing)
+
+- ⚡ Fun fact **I love playing all sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
