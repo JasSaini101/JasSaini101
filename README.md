@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jasnoor Saini</h1>
-<h3 align="center">Philadelphia, PA</h3>
 
-- 🔭 I’m currently working on **a software application for the Children's Hospital of Phialdelphia**
 
-- 🌱 I’m currently learning **Unity and Mobile App Development**
+- 🔭 I’m currently working on **a 3D Booster Seat Generating application at the Children's Hospital of Phialdelphia**
 
-- 💬 Ask me about **what I've learned from my internships and school**
+- 🧑‍🎓 I'm a double major in **Computer Science and Cognitive Science at the University of Delaware** (exp grad 05/2026)
 
-- 📫 How to reach me **jasnoor.saini@icloud.com**
+- 🌱 I’m currently learning **Game Development (Unity) and Mobile App Development (REACT Native)**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing](https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing)
+- 💬 Ask me about **my pursuits outside of school/work. There are always a personal projects I am working on.**
 
-- ⚡ Fun fact **I love playing all sports**
+- 📫 How to reach me **jassaini@udel.edu**
+
+- ⚡ Fun fact **I love compeittion; Sports - Soccer & Football; Games - Chess & Valorant**
+
+- 📝 For more information of my expereinces **view my resume!** 
+         https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
