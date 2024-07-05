@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I love competition; Sports - Soccer & Football; Games - Chess & Valorant**
 
-- 📝 For more information of my expereinces **view my resume!** 
-         https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing  
-
+- 📝 For more information of my expereinces **view my [resume](https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing)!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
