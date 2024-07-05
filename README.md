@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Game Development (Unity) and Mobile App Development (REACT Native)**
 
-- 💬 Ask me about **my pursuits outside of school/work. There are always a personal projects I am working on.**
+- 💬 Ask me about **my pursuits outside of school/work. There are always personal projects I am working on.**
 
 - 📫 How to reach me **jassaini@udel.edu**
 
-- ⚡ Fun fact **I love compeittion; Sports - Soccer & Football; Games - Chess & Valorant**
+- ⚡ Fun fact **I love competition; Sports - Soccer & Football; Games - Chess & Valorant**
 
 - 📝 For more information of my expereinces **view my resume!** 
          https://docs.google.com/document/d/13whmgMf1JJ4uAehXBOG32mvaMLDaJPzcBEBMMOKd144/edit?usp=sharing  
