@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 I'm a double major in **Computer Science and Cognitive Science at the University of Delaware** (exp grad 05/2026)
 
-- 🌱 I’m currently learning **Game Development (Unity) and Mobile App Development (REACT Native)**
+- 🌱 I’m currently learning **DataBases (SQL + PANDAS) and Mobile App Development (REACT Native)**
 
 - 💬 Ask me about **my pursuits outside of school/work. There are always personal projects I am working on.**
 
